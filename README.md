@@ -8,7 +8,7 @@
 
 ## 👋 Hi, I’m Harshit!
 
-🎓 I’m currently pursuing a **Bachelor’s in Computer Science**, with a strong interest in **Python**, **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Full Stack Development**.  
+🎓 I have pursued a **Bachelor’s Degree in Computer Science**, with a strong interest in **JAVA**,**ReactJS**,**Full Stack Development**,**Python**, **Data Science**, **Machine Learning** and **Artificial Intelligence** .  
 I love combining logic, creativity, and data to build intelligent systems and meaningful applications.
 
 ---
@@ -16,11 +16,11 @@ I love combining logic, creativity, and data to build intelligent systems and me
 ### 💻 Tech Stack
 
 **Programming Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Web Technologies:**  
@@ -72,18 +72,5 @@ Let’s innovate together and bring data to life! 🚀
 
 ### ⚡ Fun Fact
 When I’m not coding, you’ll probably find me exploring **new tech trends**, **playing chess ♟️**, or **brewing the perfect cup of coffee ☕**.
-
----
-
-### 📊 GitHub Stats
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-codes04&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-codes04&layout=compact&theme=tokyonight)
-
----
-
-### 🕸️ GitHub Activity Graph
-
-[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshit-codes04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---

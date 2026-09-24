@@ -8,7 +8,7 @@
 
 ## 👋 Hi, I’m Harshit!
 
-🎓 I have pursued a **Bachelor’s Degree in Computer Science**, with a strong interest in **JAVA**,**ReactJS**,**Full Stack Development**,**Python**, **Data Science**, **Machine Learning** and **Artificial Intelligence** .  
+🎓 I have pursued a **Bachelor’s Degree in Computer Science**, with a strong interest in **MERN STACK**,**Next JS**,**JAVA**,**ReactJS**,**Full Stack Development**,**Python**, **Data Science**, **Machine Learning** and **Artificial Intelligence** .  
 I love combining logic, creativity, and data to build intelligent systems and meaningful applications.
 
 ---
@@ -58,14 +58,14 @@ I love combining logic, creativity, and data to build intelligent systems and me
 
 ### 💞️ Collaboration Goals
 
-I’m open to contributing to **open-source projects** involving **Machine Learning**, **AI**, or **Data Visualization**.  
+I’m open to contributing to **open-source projects** involving **Web Development**,**Full Stack Projects**,**Machine Learning**, **AI**, or **Data Visualization**.  
 Let’s innovate together and bring data to life! 🚀  
 
 ---
 
 ### 📫 Reach Me
 
-📧 **Email:** [harshit482005@gmail.com](mailto:harshit482005@gmail.com)  
+📧 **Email:** [harshit4825@gmail.com](mailto:harshit4825@gmail.com)  
 📍 **Location:** Valsad, South Gujarat, India  
 
 ---

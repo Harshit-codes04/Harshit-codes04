@@ -1,8 +1,8 @@
 <!-- Typing Animation Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7FF&width=435&lines=Hi!+I'm+Harshit;Python+%7C+ML+%7C+AI+%7C+Full+Stack+Developer;Lifelong+Learner+%26+Tech+Explorer)](https://git.io/typing-svg)
 
-<!-- Profile View Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Harshit-codes04&style=for-the-badge)
+<!-- Profile View Counter 
+![Profile Views](https://komarev.com/ghpvc/?username=Harshit-codes04&style=for-the-badge)-->
 
 ---
 
